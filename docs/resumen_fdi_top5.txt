@@ -1,0 +1,53 @@
+RESUMEN ESTADÍSTICO FDI (% del PIB)
+==================================================
+
+Italia
+Promedio: 1.20%
+Mediana: 1.15%
+Rango: 3.88%
+Desviación estándar: 0.98%
+Value at Risk (5%): -0.35%
+Best Case (95%): 2.96%
+Variación interanual promedio: 0.08%
+--------------------------------------------------
+
+Irlanda
+Promedio: 19.04%
+Mediana: 20.38%
+Rango: 81.23%
+Desviación estándar: 16.19%
+Value at Risk (5%): -4.14%
+Best Case (95%): 38.37%
+Variación interanual promedio: -1.40%
+--------------------------------------------------
+
+Bélgica
+Promedio: 10.65%
+Mediana: 8.73%
+Rango: 45.14%
+Desviación estándar: 14.85%
+Value at Risk (5%): -7.27%
+Best Case (95%): 37.21%
+Variación interanual promedio: -1.54%
+--------------------------------------------------
+
+Portugal
+Promedio: 3.91%
+Mediana: 3.77%
+Rango: 6.78%
+Desviación estándar: 1.97%
+Value at Risk (5%): 0.70%
+Best Case (95%): 6.43%
+Variación interanual promedio: -0.05%
+--------------------------------------------------
+
+Polonia
+Promedio: 3.64%
+Mediana: 3.35%
+Rango: 5.95%
+Desviación estándar: 1.51%
+Value at Risk (5%): 1.58%
+Best Case (95%): 5.99%
+Variación interanual promedio: 0.03%
+--------------------------------------------------
+

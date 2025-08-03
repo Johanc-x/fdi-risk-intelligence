@@ -1,0 +1,33 @@
+RESUMEN ESTADÍSTICO FDI (% del PIB)
+==================================================
+
+Unión Europea
+Promedio: 4.39%
+Mediana: 3.95%
+Rango: 9.16%
+Desviación estándar: 2.25%
+Value at Risk (5%): 1.12%
+Best Case (95%): 8.57%
+Variación interanual promedio: -0.33%
+--------------------------------------------------
+
+Estados Unidos
+Promedio: 1.74%
+Mediana: 1.69%
+Rango: 2.76%
+Desviación estándar: 0.65%
+Value at Risk (5%): 1.02%
+Best Case (95%): 2.77%
+Variación interanual promedio: -0.08%
+--------------------------------------------------
+
+China
+Promedio: 2.88%
+Mediana: 3.04%
+Rango: 3.49%
+Desviación estándar: 1.10%
+Value at Risk (5%): 1.31%
+Best Case (95%): 4.50%
+Variación interanual promedio: -0.10%
+--------------------------------------------------
+
