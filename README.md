@@ -79,7 +79,7 @@ This project reflects the integration of academic training in Economics and Fina
 ![Power BI - Filtered View](img/powerbi/Powerbi_estadistica_filtrada_2025.png)
 
 \
-\
+
 
 ### Power BI Online Dashboard
 
