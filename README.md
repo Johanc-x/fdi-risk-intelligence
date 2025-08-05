@@ -79,8 +79,6 @@ This project reflects the integration of academic training in Economics and Fina
 ![Power BI - Filtered View](img/powerbi/Powerbi_estadistica_filtrada_2025.png)
 
 
-
-
 ### Power BI Online Dashboard
 
 [Explore Interactive Version](http://bit.ly/3UKiQNg)
@@ -96,7 +94,7 @@ ADDCOLUMNS(
 )
 ```
 ![DAX Studio Analysis](img/powerbi/powerbi_daxstudio_query_plan.png)
-![DAX Studio Analysis](img/powerbi/powerbi_daxstudio_server_timning.png)
+![DAX Studio Analysis](img/powerbi/powerbi_daxstudio_server_timing.png)
 
 
 
@@ -145,7 +143,7 @@ ADDCOLUMNS(
 - Greece's persistent low levels reflect structural recovery challenges.
 - Italy showed a steep decline in 2020 (COVID-related).
 
-**Python Graphs:** \
+**Python Graphs:** 
 
 
 ![Python Revenue Simulation](img/python/fdi_comparativo_top5.png)
