@@ -246,8 +246,9 @@ oracle-investment-risk-model/
 
 ---
 
-**Author:** Jhojan Giovanni Cachay Rios\
-Bachelor in Economics, Master in Finance & Accounting\
-[LinkedIn](https://www.linkedin.com/in/johancachay/)\
+**Author:** Jhojan Giovanni Cachay Rios  
+Bachelor in Economics, Master in Finance & Accounting  
+[LinkedIn](https://www.linkedin.com/in/jhojancachay)  
 Spain 🇪🇸
+
 
