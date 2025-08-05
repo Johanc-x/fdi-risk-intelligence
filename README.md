@@ -76,7 +76,7 @@ This project reflects the integration of academic training in Economics and Fina
 
 ![Power BI - Summary Overview](img/powerbi/powerbi_resumen_general.png)
 ![Power BI - Company Statistics](img/powerbi/powerbi_estadistica_empresas.png)
-![Power BI - Filtered View](img/powerbi/powerbi_estadistica_filtrada_2025.png)
+![Power BI - Filtered View](img/powerbi/Powerbi_estadistica_filtrada_2025.png)
 
 \
 \
@@ -95,8 +95,8 @@ ADDCOLUMNS(
     "Simulado_YoY", [FDI_Simulado_YoY]
 )
 ```
-![DAX Studio Analysis](img/powerbi/Powerbi_daxstudio_query_plan.png)
-![DAX Studio Analysis](img/powerbi/Powerbi_daxstudio_server_timning.png)
+![DAX Studio Analysis](img/powerbi/powerbi_daxstudio_query_plan.png)
+![DAX Studio Analysis](img/powerbi/powerbi_daxstudio_server_timning.png)
 
 
 
@@ -179,7 +179,7 @@ Worst simulated values detected:
 **Interpretation:** Extreme drops indicate structural fragility or high sensitivity in the projection model.
 
 ![Oracle Trigger Alerts](img/oracle/oracle_trigger_alerta.png)
-![Oracle Trigger Alerts](img/oracle/trigger_empresas.png)
+![Oracle Trigger Alerts](img/oracle/triggers_empresas.png)
 
 
 ### 5.4 Company-Level Z-Score Risk
