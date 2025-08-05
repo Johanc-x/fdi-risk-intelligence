@@ -78,7 +78,7 @@ This project reflects the integration of academic training in Economics and Fina
 ![Power BI - Company Statistics](img/powerbi/powerbi_estadistica_empresas.png)
 ![Power BI - Filtered View](img/powerbi/Powerbi_estadistica_filtrada_2025.png)
 
-\
+
 
 
 ### Power BI Online Dashboard
@@ -146,7 +146,7 @@ ADDCOLUMNS(
 - Italy showed a steep decline in 2020 (COVID-related).
 
 **Python Graphs:** \
-\
+
 
 ![Python Revenue Simulation](img/python/fdi_comparativo_top5.png)
 ![Python Revenue Simulation](img/python/fdi_comparativo_peores5.png)
