@@ -1,10 +1,10 @@
-# 🧠 Developer Quick Reference – Jhojan's Data Ops
+#  Developer Quick Reference
 
 Este archivo contiene comandos clave para trabajar en este proyecto de forma ordenada y profesional.
 
 ---
 
-## 🔁 Activar entorno virtual (cada vez que abras VS Code o una nueva terminal)
+## 🔁 Activar entorno virtual
 
 ```powershell
 .\venv\Scripts\Activate
@@ -45,6 +45,6 @@ git remote add origin https://github.com/tuusuario/tu-repo.git
 git branch -M main
 git push -u origin main
 
-# Ejecutar desde la terminal de VSCODE. Asegúrate de estar ubicado en la raíz del proyecto
+# Ejecutar desde la terminal de VSCODE.
 python Scripts/exploracion_fdi.py
 
